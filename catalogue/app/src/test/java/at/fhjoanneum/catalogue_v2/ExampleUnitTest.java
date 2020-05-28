@@ -1,4 +1,4 @@
-package at.fhjoanneum.cat_alouge;
+package at.fhjoanneum.catalogue_v2;
 
 import org.junit.Test;
 

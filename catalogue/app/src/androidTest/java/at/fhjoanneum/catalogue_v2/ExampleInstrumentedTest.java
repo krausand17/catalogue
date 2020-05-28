@@ -1,4 +1,4 @@
-package at.fhjoanneum.cat_alouge;
+package at.fhjoanneum.catalogue_v2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("at.fhjoanneum.cat_alouge", appContext.getPackageName());
+        assertEquals("at.fhjoanneum.catalogue_v2", appContext.getPackageName());
     }
 }

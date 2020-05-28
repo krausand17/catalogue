@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='cat-alouge'
+rootProject.name='catalogue_v2'
